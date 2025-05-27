@@ -1,4 +1,4 @@
-This was a class project for SIUE's game developement course. A playable demo can be found [here](squatchout.itch.io/deathtildawn).
+## This was a class project for SIUE's game developement course. A playable demo can be found [here](https://squatchout.itch.io/deathtildawn).
 
 
 Justin Burns, Zachery Linscott, Alex Wernex, Josh Marion
