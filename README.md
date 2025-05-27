@@ -1,3 +1,6 @@
+This was a class project for SIUE's game developement course. A playable demo can be found [here](squatchout.itch.io/deathtildawn).
+
+
 Justin Burns, Zachery Linscott, Alex Wernex, Josh Marion
 
 Final Project “Death Till Dawn” GDD - An arcade zombie-shooter game.
